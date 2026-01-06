@@ -1,7 +1,7 @@
 # Type Casting
 # Type casting is the process of converting one data type into another data type.
 
-/* Integer to float */ 
+#/* Integer to float */ 
 # Converting an integer value into a string using the str() function.
 
 x = 5
@@ -12,7 +12,7 @@ print(type(y))
 #  5.0
 <class 'float'>
 
-/* Float to Integer */
+#/* Float to Integer */
 # Converting a float value into an integer using the int() function (decimal part is removed).
 
 a = 12.9
@@ -23,7 +23,7 @@ print(type(b))
 #  12
 <class 'int'>
 
-/* Integer to string */
+#/* Integer to string */
 
 age=20
 age_str=str(age)
@@ -33,7 +33,7 @@ print(type(age_str))
 #  20
 <class 'str'>
 
-/* String to Integer */
+#/* String to Integer */
 # Converting a numeric string into an integer using the int() function.
 
 num="100"
@@ -56,7 +56,7 @@ print(type(value_float))
 <class 'float'>
 
 
-/* Combined Example */                          
+#/* Combined Example */                          
    # Type casting 
 
 student_name = "Girish"
