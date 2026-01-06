@@ -1,4 +1,8 @@
-/* Integer to float */
+# Type Casting
+# Type casting is the process of converting one data type into another data type.
+
+/* Integer to float */ 
+# Converting an integer value into a string using the str() function.
 
 x = 5
 y = float(x)
@@ -9,6 +13,7 @@ print(type(y))
 <class 'float'>
 
 /* Float to Integer */
+# Converting a float value into an integer using the int() function (decimal part is removed).
 
 a = 12.9
 b = int(a)
@@ -29,6 +34,7 @@ print(type(age_str))
 <class 'str'>
 
 /* String to Integer */
+# Converting a numeric string into an integer using the int() function.
 
 num="100"
 num_int=int(num)
@@ -39,6 +45,7 @@ print(type(num_int))
 <class 'int'>
 
 /* String to Float */
+#Converting a numeric string with decimals into a float using the float() function.
 
 value = "45.6"
 value_float = float(value)
