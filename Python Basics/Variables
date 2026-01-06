@@ -1,7 +1,0 @@
-name = "Girish"
-course="BCA"
-print(name)
-print(course)
-
-# Girish
-# BCA
