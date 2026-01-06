@@ -1,0 +1,39 @@
+/* Integer*/
+
+a = 10
+b = -5
+print(a)
+print(type(a))
+
+ # 5
+<class 'int'>
+
+/* Float */
+
+price = 99.75
+print(price)
+print(type(price))
+
+#  99.75
+<class 'float'>
+
+/* String */
+
+language = "Python"
+print(language)
+print(type(language))
+
+#  Python
+<class 'str'>
+
+/* Boolean */
+
+is_python_easy = True
+print(is_python_easy)
+print(type(is_python_easy))
+
+#  True
+<class 'bool'>
+
+
+
