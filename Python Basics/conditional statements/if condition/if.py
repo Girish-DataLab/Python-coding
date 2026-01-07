@@ -1,6 +1,8 @@
-a=10
-b=15
-if(a<=b):
-  print(condition is true)
-else:
-  print(condition is false)
+age = 18
+
+if age >= 18:
+    print("Eligible to vote")
+
+# Eligible to vote
+
+
