@@ -6,3 +6,5 @@ elif marks >= 60:
     print("Grade B")
 else:
     print("Grade C")
+
+# Grade B
